@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MdAbuZehadAntu, Machine Learning Engineer at Softwrd Ltd. (softwrd.ai)
+- 👋 Hi, I’m @MdAbuZehadAntu, Machine Learning Engineer at Softwrd Ltd. softwrd.ai
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning
 - 🌱 I’m currently working as a learning Machine Learning Engineer
 - 💞️ I’m looking to collaborate on (Machine Learning Projects)
