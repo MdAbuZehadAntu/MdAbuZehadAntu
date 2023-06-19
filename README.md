@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning
 - 🌱 I’m currently working as a learning Machine Learning Engineer
 - 💞️ I’m looking to collaborate on (Machine Learning Projects)
-- 📫 How to reach me mantu171092@bscse.uiu.ac.bd
+- 📫 How to reach me tantu249@gmail.com
 
 <!---
 MdAbuZehadAntu/MdAbuZehadAntu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
