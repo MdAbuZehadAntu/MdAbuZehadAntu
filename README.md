@@ -6,7 +6,7 @@
 <div align = "center" > 
   <br>
   <br>
-  <b> Welcome to my github profile. I am a cse graduate from  Bangladesh(:bangladesh:) and working as a Machine Learning Engineer at SOftwrd Ltd. . </b>
+  <b> Welcome to my github profile. I am a cse graduate from  Bangladesh(:bangladesh:) and working as a Machine Learning Engineer at Softwrd Ltd. . </b>
     <br> 
   </div>
   
